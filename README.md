@@ -26,6 +26,8 @@ To install the required packages, you will need to have Python 3 and pip install
 
     This will upgrade any outdated packages to their latest version.
 
+## API Import
+
 5. Add import API collection to user postman using below link
 
     API Link https://api.postman.com/collections/23193520-7c1f89f7-66a9-4da3-988a-c1ef546b56b8?access_key=PMAT-01GVXGBM11HEQE8RDPFVKJJH7E
